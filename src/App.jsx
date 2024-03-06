@@ -1,4 +1,4 @@
-import Form from "./assets/Form"
+import Form from "./assets/Form";
 
 function App() {
   return (
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
